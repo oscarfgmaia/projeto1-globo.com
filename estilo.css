@@ -1,0 +1,22 @@
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+  }
+  .logo {
+    background-color: black;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+  }
+  .logo img {
+    height: 100%;
+  }
+  
+  .menu {
+    background-color: blue;
+    height: 80px;
+  }
+
+  @media (max-width:600px) {
+    
+  }
